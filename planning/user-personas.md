@@ -1,27 +1,11 @@
 # User Personas
 
-[semrush.com](https://www.semrush.com/persona/new/) - an optional website for
-creating and sharing personas.
+the project objective is to explain about trees.
 
-## Template Markdown File
+## knowledge about trees
 
-```markdown
-# User Personas
-
-<!-- some introduction -->
-
----
-
-<!-- a persona -->
-
-## Their Role
-
-- **Bio**:
-- **Needs/Goals**:
-- **Frustrations**:
-- **Scenario 1**:
-
----
-
-<!-- more personas ... -->
-```
+- **Bio**:the use of trees what can they get from it hoa much is tree to this
+  world.
+- **Needs/Goals**:getting more knowledge about tree.
+- **Frustrations**:people want to figure out why they have to plant trees.
+- **Scenario 1**:figure out what we can get from trees.

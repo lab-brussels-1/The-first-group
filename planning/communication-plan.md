@@ -8,10 +8,10 @@
 
 ## Communication Schedule
 
-| Day     |  How  | The topic of discussion                                                       |
-| ------- | :---: | ----------------------------------------------------------------------------- |
-| Monday  | Zoom  | Communication check, Constraints                                              |
-| Tuesday | Zoom  | Communication last check, Constraints last check, User stories check, Backlog |
+| Day     | How  | The topic of discussion                                                       |
+| ------- | :--: | ----------------------------------------------------------------------------- |
+| Monday  | Zoom | Communication check, Constraints                                              |
+| Tuesday | Zoom | Communication last check, Constraints last check, User stories check, Backlog |
 
 ## Communication Channels
 
@@ -39,7 +39,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Maria: _5h_;
 - Minju: _4h_;
-- zerubabel: _6h_;
+- zerubabel4: _6h_;
 
 <!--## Asking for Help
 

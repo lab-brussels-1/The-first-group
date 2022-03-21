@@ -1,4 +1,16 @@
-# (project name)
+# All About Trees
+
+This project is to rebuild the _All About Trees_ site in a new repository as a
+group using the Planning and Collaborating workflows.
+
+Our group members are:
+
+- [MMikhailova](https://github.com/MMikhailova)
+- [Carsiti](https://github.com/Carsiti)
+- [Zerubabel4](https://github.com/Zerubabel4)
+- [minjupgeorge](https://github.com/minjupgeorge)
+
+![alt](/public/2021-01-22-cell-trees-nl.webp)
 
 <!-- describe your project -->
 

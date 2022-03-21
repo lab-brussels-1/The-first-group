@@ -28,6 +28,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
+
 | Day     |        Monday         |        Tuesday        |       Wednesday        |       Thursday        |        Friday         |  Saturday  |   Sunday   |
 | ------- | :-------------------: | :-------------------: | :--------------------: | :-------------------: | :-------------------: | :--------: | :--------: |
 | _Maria_ | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 12pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 11am - 1pm | 9pm - 12am |

@@ -29,10 +29,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |        Monday         |        Tuesday        |       Wednesday        |       Thursday        |        Friday         |  Saturday  |   Sunday   |
-| ------- | :-------------------: | :-------------------: | :--------------------: | :-------------------: | :-------------------: | :--------: | :--------: |
-| _Maria_ | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 12pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 11am - 1pm | 9pm - 12am |
-| _Minju_ |       1pm - 5pm       |       9pm - 1pm       |       1pm - 6pm        |       1pm - 6pm       |      12pm - 4pm       | 9pm - 1pm  | 12pm - 6pm |
+| Day         |        Monday         |        Tuesday        |       Wednesday        |       Thursday        |        Friday         |  Saturday  |   Sunday   |
+| -------     | :-------------------: | :-------------------: | :--------------------: | :-------------------: | :-------------------: | :--------: | :--------:    |
+| _Maria_     | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 12pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 9am - 4pm, 9pm - 11pm | 11am - 1pm | 9pm - 12am |
+| _Minju_     |       1pm - 5pm       |       9pm - 1pm       |       1pm - 6pm        |       1pm - 6pm       |      12pm - 4pm       | 9pm - 1pm  | 12pm - 6pm |
+| _zerubabel_ | 10am - 4pm, 10pm - 12pm | 9am - 5pm, 9pm - 12pm | 9am - 5pm | 9am - 4pm, 10pm - 12pm | 9am - 4pm, 10pm - 12pm | 11am - 4pm | 9pm - 12am |
 
 ### How many hours everyone has per day
 

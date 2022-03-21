@@ -4,6 +4,9 @@ Some boundaries around our project.
 
 ## External
 
+### Time
+
+- 1 week deadline
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -13,6 +16,13 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
+### Technology
+
+- github
+- vscode
+- html and css
+- excalidraw
+
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
@@ -20,6 +30,11 @@ Some boundaries around our project.
 -->
 
 ## Internal: Voluntary
+
+### Avaibility
+
+- 4-6 hours per day /person
+- using discord and zoom for communication
 
 <!--
   constraints that your team decided on to help scope the project. they may include:

@@ -12,8 +12,9 @@
           goals_
   - As a user I can learn about trees
     - [ ] _there is a main text in the page with helpful info and links_
-  - As a user I can learn even more about trees
-    - [ ] _there is an aside with links for further reading_
+  - As a middle shool student I can find some visual content for my presentation
+    about trees
+    - [ ] _there is an aside with links for visual content_
 
 ## Should Haves
 
@@ -31,5 +32,5 @@
 > would be really cool ... if there's time
 
 - **Home Page**
-  - as a user will smile (or roll their eyes) when they read our page
-    - [ ] _there are some silly animations_
+  - as a tree expert I can find some extra information about the most rare trees
+    - [ ] _there is an extra section_

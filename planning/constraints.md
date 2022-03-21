@@ -35,7 +35,7 @@ Some boundaries around our project.
 
 - 4-6 hours per day /person
 - using discord and zoom for communication
-
+- virtual meet 15 mins a day
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions

@@ -1,13 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "Minju",
-    "zerubabel"
-    "Mikhailova"
-    "Carsiti"
-    "minjupgeorge"
-    "webp"
-  ],
+  "words": [],
   "ignorePaths": [
     "node_modules/**",
     "package.json",

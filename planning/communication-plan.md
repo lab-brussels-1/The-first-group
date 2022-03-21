@@ -28,17 +28,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |  Monday   |  Tuesday  | Wednesday  |  Thursday  |   Friday   | Saturday |   Sunday   |
-| ------- | :-------: | :-------: | :--------: | :--------: | :--------: | :------: | :--------: |
-| _Maria_ | 9am - 4pm | 9am - 4pm | 9am - 12pm | 9am - 12pm | 9am - 12pm |          | 9pm - 12am |
+| Day     |  Monday   |  Tuesday  | Wednesday  |  Thursday  |   Friday   | Saturday  |   Sunday   |
+| ------- | :-------: | :-------: | :--------: | :--------: | :--------: | :-------: | :--------: |
+| _Maria_ | 9am - 4pm | 9am - 4pm | 9am - 12pm | 9am - 12pm | 9am - 12pm |           | 9pm - 12am |
+| _Minju_ | 1pm - 5pm | 9pm - 1pm | 1pm - 6pm  | 1pm - 6pm  | 12pm - 4pm | 9pm - 1pm | 12pm - 6pm |
 
 ### How many hours everyone has per day
 
 - name: _5h_; extra comments?
 - name: _6h_;
 - name: _5h_;
-- name: _4h_;
-- Fenny: _3h_; I can work more on Wednesday
+- Minju: _4h_;
 
 ## Asking for Help
 

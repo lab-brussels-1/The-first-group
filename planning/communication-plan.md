@@ -11,6 +11,7 @@
 | Day    | How  | The topic of discussion          |
 | ------ | :--: | -------------------------------- |
 | Monday | Zoom | Communication check, Constraints |
+| Tuesday| Zoom | Communication last check, Constraints last check, User stories check, Backlog|
 
 ## Communication Channels
 

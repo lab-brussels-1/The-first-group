@@ -57,6 +57,7 @@ society.
 
 - styling to center the title
 - [ ] style elements, hover (issue)
+
 ---
 
 ## Introduction

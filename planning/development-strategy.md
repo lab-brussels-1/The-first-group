@@ -58,6 +58,7 @@ society.
 - styling to center the title
 - [ ] style elements, hover (issue)
 ---
+
 ## Introduction
 
 > "As a user I can read an introduction to this project"
@@ -69,25 +70,30 @@ web page.
 ### Introduction: HTML
 
 - a section with some general information about the project and helpful links
+
 ### Introduction: CSS
 
 - styling to make the text look fancy
 ---
+
 ## Main Info
 
 > "As a user I can learn about trees"
 There should be enough information that the user can learn the basics about
 trees.
 - [ ] _there is a main text in the page with helpful info and links_
+
 ### Main Info: HTML
 
 - Main text: a section with some general information about the project
 - Extra Info Links: a list of links
+
 ### Main Info: CSS
 
 - style the text
 - styling to format the list
 ---
+
 ## Extra Info
 
 > "As a user I can learn even more about trees"
@@ -95,8 +101,10 @@ Some more links for students who want to go beyond the basics.
 - [ ] _there is an aside with links for further reading_
 
 ### Extra Info: HTML
+
 - An aside with links for digging deeper, some helpful text and a reference link
 
 ### Extra Info: CSS
+
 - styling to position the aside
 - styling to style the text

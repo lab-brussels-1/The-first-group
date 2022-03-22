@@ -7,14 +7,14 @@
 - **Home Page**
   - As a user I can read the title of the page
     - [ ] _there is a prominent title at the top of the web page_
-  - As a user I can read an introduction to this project
-    - [ ] _there is a section directly under the navbar describing the project's
-          goals_
-  - As a user I can learn about trees
-    - [ ] _there is a main text in the page with helpful info and links_
+  - As a plantsman I can easily understand what is this page about
+    - [ ] _there is an introduction section directly under the navbar describing
+          the project_
   - As a middle shool student I can find some visual content for my presentation
     about trees
-    - [ ] _there is an aside with links for visual content_
+    - [ ] _there is main text with links for visual content_
+  - As a user I can be sure that this page is reliable
+    - [ ] _there is a footer with a link to development organization_
 
 ## Should Haves
 
@@ -32,5 +32,7 @@
 > would be really cool ... if there's time
 
 - **Home Page**
-  - as a tree expert I can find some extra information about the most rare trees
+  - as a trees expert I can find some extra information about the trees
     - [ ] _there is an extra section_
+  - as a user I can enjoy well-elaborated style of the page
+    - [ ] _there is background color, stylish fonts for headers and etc..._

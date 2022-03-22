@@ -103,6 +103,7 @@ trees.
 
 > "As a user I can learn even more about trees"
 Some more links for students who want to go beyond the basics.
+
 - [ ] _there is an aside with links for further reading_
 
 ### Extra Info: HTML
@@ -113,5 +114,4 @@ Some more links for students who want to go beyond the basics.
 
 - styling to position the aside
 - styling to style the text
-
 ---

@@ -29,10 +29,10 @@ society.
 
 <!-- user story -->
 
-> "as a user I can read the title of the page"
-> "As a plantsman I can easily understand what is this page about"
->"As a middle shool student I can find some visual content for my presentation"
->"As a user I can be sure that this page is reliable"
+> "as a user I can read the title of the page" "As a plantsman I can easily
+> understand what is this page about" "As a middle shool student I can find some
+> visual content for my presentation" "As a user I can be sure that this page is
+> reliable"
 
 <!-- detailed description -->
 
@@ -62,9 +62,8 @@ society.
 
 ## Introduction
 
-> "As a user I can read an introduction to this project"
-It should be clear what this project is for and what someone can expect from the
-web page.
+> "As a user I can read an introduction to this project" It should be clear what
+> this project is for and what someone can expect from the web page.
 
 - [ ] _there is a section directly under the navbar describing the project's
       goals_
@@ -81,9 +80,8 @@ web page.
 
 ## Main Info
 
-> "As a user I can learn about trees"
-There should be enough information that the user can learn the basics about
-trees.
+> "As a user I can learn about trees" There should be enough information that
+> the user can learn the basics about trees.
 
 - [ ] _there is a main text in the page with helpful info and links_
 
@@ -101,8 +99,8 @@ trees.
 
 ## Extra Info
 
-> "As a user I can learn even more about trees"
-Some more links for students who want to go beyond the basics.
+> "As a user I can learn even more about trees" Some more links for students who
+> want to go beyond the basics.
 
 - [ ] _there is an aside with links for further reading_
 

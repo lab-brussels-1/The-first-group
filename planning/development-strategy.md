@@ -65,6 +65,7 @@ society.
 > "As a user I can read an introduction to this project"
 It should be clear what this project is for and what someone can expect from the
 web page.
+
 - [ ] _there is a section directly under the navbar describing the project's
       goals_
 
@@ -75,6 +76,7 @@ web page.
 ### Introduction: CSS
 
 - styling to make the text look fancy
+
 ---
 
 ## Main Info
@@ -111,4 +113,5 @@ Some more links for students who want to go beyond the basics.
 
 - styling to position the aside
 - styling to style the text
+
 ---

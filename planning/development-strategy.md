@@ -1,16 +1,18 @@
 # All About Trees
 
-> only `must have` user stories need to be in the development strategy
 
-A simple little website about trees.
+<!---only `must have` user stories need to be in the development strategy --->
+
+
+This website explains about why to plant trees,their uses and its impact on society.
 
 ---
 
 ## Setup
 
-- [ ] Boilerplate HTML file
+
 - [ ] Page title in the HTML file
-- [ ] empty CSS file
+- [ ] CSS file for Introduction,Navbar and Visual content 
 - [ ] CSS file is linked to HTML
 
 ---
@@ -31,23 +33,37 @@ A simple little website about trees.
 
 > "as a user I can read the title of the page"
 
+> "As a plantsman I can easily understand what is this page about"
+
+>As a middle shool student I can find some visual content for my presentation
+
+>As a user I can be sure that this page is reliable
+
 <!-- detailed description -->
 
-The site needs a clear title that's easy to read at the top of the page.
+<!--The site needs a clear title that's easy to read at the top of the page.-->
 
 <!-- acceptance criteria -->
 
 - [ ] _there is a prominent title at the top of the web page_
-
+- [ ]_there is an introduction section directly under the navigationbar describing the project_
+- [ ] _there is main text with links for visual content_
+- [ ] _there is a footer with a link to development organization_
 <!-- code you think you will need -->
 
-### Site Title: HTML
+**HTML**
 
 - Header with the web site's title
 
-### Site Title: CSS
+## Navbar (milestone)
+
+- [ ] Menu: Home, Features, visual content (issue)
+
+**CSS**
 
 - styling to center the title
+
+- [ ] style elements, hover (issue)
 
 ---
 
@@ -55,11 +71,9 @@ The site needs a clear title that's easy to read at the top of the page.
 
 > "As a user I can read an introduction to this project"
 
-It should be clear what this project is for and what someone can expect from the
-web page.
+It should be clear what this project is for and what someone can expect from the web page.
 
-- [ ] _there is a section directly under the navbar describing the project's
-      goals_
+- [ ] _there is a section directly under the navbar describing the project's goals_
 
 ### Introduction: HTML
 

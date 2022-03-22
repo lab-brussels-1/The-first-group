@@ -1,18 +1,16 @@
 # All About Trees
 
-
 <!---only `must have` user stories need to be in the development strategy --->
 
-
-This website explains about why to plant trees,their uses and its impact on society.
+This website explains about why to plant trees,their uses and its impact on
+society.
 
 ---
 
 ## Setup
 
-
 - [ ] Page title in the HTML file
-- [ ] CSS file for Introduction,Navbar and Visual content 
+- [ ] CSS file for Introduction,Navbar and Visual content
 - [ ] CSS file is linked to HTML
 
 ---
@@ -34,10 +32,8 @@ This website explains about why to plant trees,their uses and its impact on soci
 > "as a user I can read the title of the page"
 
 > "As a plantsman I can easily understand what is this page about"
-
->As a middle shool student I can find some visual content for my presentation
-
->As a user I can be sure that this page is reliable
+>"As a middle shool student I can find some visual content for my presentation"
+>"As a user I can be sure that this page is reliable"
 
 <!-- detailed description -->
 
@@ -46,34 +42,29 @@ This website explains about why to plant trees,their uses and its impact on soci
 <!-- acceptance criteria -->
 
 - [ ] _there is a prominent title at the top of the web page_
-- [ ]_there is an introduction section directly under the navigationbar describing the project_
+- [ ]_there is an introduction section directly under the navigationbar
+  describing the project_
 - [ ] _there is main text with links for visual content_
 - [ ] _there is a footer with a link to development organization_
 <!-- code you think you will need -->
 
 **HTML**
-
 - Header with the web site's title
-
 ## Navbar (milestone)
-
 - [ ] Menu: Home, Features, visual content (issue)
 
 **CSS**
-
 - styling to center the title
-
 - [ ] style elements, hover (issue)
-
 ---
-
 ## Introduction
-
 > "As a user I can read an introduction to this project"
 
-It should be clear what this project is for and what someone can expect from the web page.
+It should be clear what this project is for and what someone can expect from the
+web page.
 
-- [ ] _there is a section directly under the navbar describing the project's goals_
+- [ ] _there is a section directly under the navbar describing the project's
+      goals_
 
 ### Introduction: HTML
 

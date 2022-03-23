@@ -33,7 +33,7 @@ society.
 
 <!-- detailed description -->
 
-<!--The site needs a clear title that's easy to read at the top of the page.-->
+The site needs a clear title that's easy to read at the top of the page.
 
 <!-- acceptance criteria -->
 

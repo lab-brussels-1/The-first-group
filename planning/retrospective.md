@@ -23,7 +23,6 @@ in time because of good team work!
 
 - as a team, work on different tasks simultaneously to get result faster instead
   of waiting for the end of previous task
--
 
 ## Lessons Learned
 
@@ -43,6 +42,7 @@ in time because of good team work!
 ### What parts of your plan went as expected?
 
 - Title development
+
 - ### What parts of your plan did not work out?
 
 ### Did you need to add things that weren't in your strategy?

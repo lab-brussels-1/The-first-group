@@ -29,7 +29,8 @@ society.
 
 <!-- user story -->
 
-> "As a user I can read the title of the page" 
+> "As a user I can read the title of the page"
+
 <!-- detailed description -->
 
 <!--The site needs a clear title that's easy to read at the top of the page.-->
@@ -44,19 +45,18 @@ society.
 
 - Header with the web site's title (issue)
 
-
 ### Site Title CSS
 
 - styling to center the title(issue)
-
 
 ---
 
 ## Menu (milestone)
 
->As a user I can read the details of the website from the Menu.
+> As a user I can read the details of the website from the Menu.
 
-- A Menu contians Home,Introduction, content and extras are displayed at the top of the page.
+- A Menu contians Home,Introduction, content and extras are displayed at the top
+  of the page.
 
 ### Menu HTML
 
@@ -74,11 +74,13 @@ society.
 > "As a user I can read an introduction to this project" It should be clear what
 > this project is for and what someone can expect from the web page.
 
-- [ ] _there is a section "Introduction" in  the navbar describing the project's goal
+- [ ] \_there is a section "Introduction" in the navbar describing the project's
+      goal
 
 ### Introduction: HTML
 
-- a section with some general information about the project and helpful links(issue)
+- a section with some general information about the project and helpful
+  links(issue)
 
 ### Introduction: CSS
 
@@ -93,12 +95,14 @@ society.
 Since it is a home page we don't place much content but there should be links to
 the content with clear description.
 
-- [] _a section with some general information about the uses of trees,tree health and social impact(issue)
+- [] \_a section with some general information about the uses of trees,tree
+  health and social impact(issue)
 - []_there are links to different sources providing content about trees_
 
 ### Content: HTML
 
-- a div with title and paragraph explaining why Batman is the best superhero(issue)
+- a div with title and paragraph explaining why Batman is the best
+  superhero(issue)
 
 ### Content: CSS
 
@@ -114,11 +118,12 @@ the content with clear description.
 
 ### Extra Info: HTML
 
-- An aside with links for digging deeper, some helpful text and a reference link  (issue)
+- An aside with links for digging deeper, some helpful text and a reference link
+  (issue)
 
 ### Extra Info: CSS
 
-- styling to position the aside  (issue)
+- styling to position the aside (issue)
 - styling to style the text (issue)
 
 ## Main Info (milestone)
@@ -160,15 +165,18 @@ There should be an image of Tree.
 
 ## Footer (milestone)
 
-> "As a user I can learn if the page is reserved for a specific user and when it has been created"
+> "As a user I can learn if the page is reserved for a specific user and when it
+> has been created"
 
 Some info about the creation of the website date and reserver right.
 
-- [] _there is info about the date which the website is created  and reserved right_
+- [] _there is info about the date which the website is created and reserved
+  right_
 
 ### Footer: HTML
 
-- A footer with a paragraph with the date of the page creation and the name of the person who reserved it.(issue)
+- A footer with a paragraph with the date of the page creation and the name of
+  the person who reserved it.(issue)
 
 ### Footer: CSS
 

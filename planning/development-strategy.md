@@ -59,7 +59,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ### Menu HTML
 
--[ ] Navbar:Home,Introduction,Content,Extras(issue)
+-[ ] Navbar:Introduction,Content,Extras(issue)
 
 ### Menu CSS
 
@@ -90,18 +90,19 @@ The site needs a clear title that's easy to read at the top of the page.
 ## Content (milestone)
 
 > "As a user I can learn about trees"
-
+> As a middle shool student I can find some visual content for my presentation
+    about trees
+   
 Since it is a home page we don't place much content but there should be links to
 the content with clear description.
 
 - [ ] _A section with some general information about the uses of trees,tree
       health and social impact_(issue)
-- [ ] _there are links to different sources providing content about trees_
+- [ ] _there is main text with links for visual content_
 
 ### Content: HTML
 
-- a div with title and paragraph explaining why Batman is the best
-  superhero(issue)
+- a div with title and paragraph explaining Trees(issue)
 
 ### Content: CSS
 

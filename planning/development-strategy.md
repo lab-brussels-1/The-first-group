@@ -51,17 +51,17 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ---
 
-## Menu (milestone)
+## Navbar (milestone)
 
 > As a plantsman I can easily understand what is this page about
 
 - [ ] \_there is a menu in the navbar on the top of the page.
 
-### Menu HTML
+### Navbar HTML
 
--[ ] Navbar:Introduction,Content,Extras(issue)
+-[ ] links:Introduction,Content,Extras(issue)
 
-### Menu CSS
+### Navbar CSS
 
 - [ ] style elements, hover (issue)
 - [ ] place elements using flex (issue)

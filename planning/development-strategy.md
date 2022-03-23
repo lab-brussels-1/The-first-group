@@ -53,9 +53,9 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ## Menu (milestone)
 
->As a plantsman I can easily understand what is this page about
+> As a plantsman I can easily understand what is this page about
 
-- [ ] _there is a menu in the navbar on the top of the page.
+- [ ] \_there is a menu in the navbar on the top of the page.
 
 ### Menu HTML
 
@@ -89,10 +89,11 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ## Content (milestone)
 
-> "As a user I can learn about trees"
-> As a middle shool student I can find some visual content for my presentation
+> "As a user I can learn about trees" As a middle shool student I can find some
+> visual content for my presentation
+
     about trees
-   
+
 Since it is a home page we don't place much content but there should be links to
 the content with clear description.
 
@@ -126,9 +127,10 @@ the content with clear description.
 - styling to position the aside (issue)
 - styling to style the text (issue)
 -->
+
 ## Main Info (milestone)
 
-> "As a user I can learn about trees" 
+> "As a user I can learn about trees"
 
 - [ ] _there is a main text in the page with helpful info and links_
 - [ ] _there are two images in the left side of the main page_
@@ -165,11 +167,13 @@ There should be an image of Tree.
 > - As a user I can be sure that this page is reliable
 
 - [ ] _there is a footer with a link to development organization_
-- [ ] _there is info about the date which the website is created and reserved right_
+- [ ] _there is info about the date which the website is created and reserved
+      right_
 
 ### Footer: HTML
 
-- A footer with a  link to development organization and a paragraph with the date of the page creation.(issue)
+- A footer with a link to development organization and a paragraph with the date
+  of the page creation.(issue)
 
 ### Footer: CSS
 

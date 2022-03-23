@@ -2,7 +2,7 @@
 
 **The project objective** : To explain the need of trees.
 
-## the public about trees
+## the public 
 
 ---
 

@@ -55,11 +55,11 @@ The site needs a clear title that's easy to read at the top of the page.
 
 > As a plantsman I can easily understand what is this page about
 
-- [ ] \_there is a menu in the navbar on the top of the page.
+- [ ] there is a navbar on the top of the page.
 
 ### Navbar HTML
 
--[ ] links:Introduction,Content,Extras(issue)
+- [ ] links:Introduction,Content,Extras(issue)
 
 ### Navbar CSS
 
@@ -145,11 +145,11 @@ the content with clear description.
 
 ## Images (milestone)
 
-> "As a user I want to see the images of Tree's"
+> "As a user I want to see the image of Tree"
 
 There should be an image of Tree.
 
-- [ ] _there is an image explains about Tree health/ slcial impact_
+- [ ] _there is an image explains about Tree health/Uses/social impact_
 
 ### Images: HTML
 

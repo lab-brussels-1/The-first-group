@@ -9,9 +9,9 @@ society.
 
 ## Setup
 
-- [] Page title in the HTML file
-- [] CSS file for Title, Menu, Main info and footer
-- [] CSS file is linked to HTML
+- [ ] Page title in the HTML file
+- [ ] CSS file for Title, Menu, Main info and footer
+- [ ] CSS file is linked to HTML
 
 ---
 
@@ -37,7 +37,7 @@ society.
 
 <!-- acceptance criteria -->
 
-- [] _there is a prominent title at the top of the web page_
+- [ ] _there is a prominent title at the top of the web page_
 
 <!-- code you think you will need -->
 
@@ -55,17 +55,17 @@ society.
 
 > As a user I can read the details of the website from the Menu.
 
-- A Menu contians Home,Introduction, content and extras are displayed at the top
-  of the page.
+- [ ] _A Menu contians Home,Introduction,Content and Extras are displayed at the top
+  of the page._
 
 ### Menu HTML
 
-- []navbar:Home,Introduction,Content,Extras(issue)
+-[ ] Navbar:Home,Introduction,Content,Extras(issue)
 
 ### Menu CSS
 
-- []style elements, hover (issue)
-- []place elements using flex (issue)
+- [ ] style elements, hover (issue)
+- [ ] place elements using flex (issue)
 
 ---
 
@@ -74,8 +74,8 @@ society.
 > "As a user I can read an introduction to this project" It should be clear what
 > this project is for and what someone can expect from the web page.
 
-- [ ] \_there is a section "Introduction" in the navbar describing the project's
-      goal
+- [ ] _there is a section "Introduction" in the navbar describing the project's
+      goal_
 
 ### Introduction: HTML
 
@@ -95,9 +95,9 @@ society.
 Since it is a home page we don't place much content but there should be links to
 the content with clear description.
 
-- [] \_a section with some general information about the uses of trees,tree
-  health and social impact(issue)
-- []_there are links to different sources providing content about trees_
+- [ ] _A section with some general information about the uses of trees,tree
+  health and social impact_(issue)
+- [ ] _there are links to different sources providing content about trees_
 
 ### Content: HTML
 
@@ -106,8 +106,8 @@ the content with clear description.
 
 ### Content: CSS
 
-- [] hover effect on links (issue)
-- [] - styling to make the content look nice(issue)
+- [ ] hover effect on links (issue)
+- [ ] styling to make the content look nice(issue)
 
 ## Extra Info (milestone)
 
@@ -170,7 +170,7 @@ There should be an image of Tree.
 
 Some info about the creation of the website date and reserver right.
 
-- [] _there is info about the date which the website is created and reserved
+- [ ] _there is info about the date which the website is created and reserved
   right_
 
 ### Footer: HTML

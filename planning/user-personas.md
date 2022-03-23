@@ -4,8 +4,6 @@
 
 ## The public
 
----
-
 - **Bio**: The use of trees what can they get from it how much is tree to this
   world.
 - **Needs/Goals**: Getting more knowledge about tree.
@@ -14,13 +12,13 @@
 
 ## Middle-School Student
 
----
-
-[Middle-School Student](https://www.semrush.com/persona/share/M4pKsPJ074aa2P--nmTRP3-Xg5Z-dTvDGzSQUy8FlcI/)
+Ethel is middle school student taking his first biology class.  
+He is searching for some information on Internet to make the presentation about
+the trees for his class.  
+Learn more about his goals here:
+[Middle-School Student Persona](https://www.semrush.com/persona/share/M4pKsPJ074aa2P--nmTRP3-Xg5Z-dTvDGzSQUy8FlcI/)
 
 ## Plantsman
-
----
 
 - **Bio**: Leo is a Plantsman, who currently preparing for a seminar.
 - **Needs/Goals**: He needs to explain about How to plant a tree, Tree Health

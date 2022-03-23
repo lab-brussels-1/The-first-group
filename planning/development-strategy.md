@@ -133,7 +133,7 @@ the content with clear description.
 > "As a user I can learn about trees"
 
 - [ ] _there is a main text in the page with helpful info and links_
-- [ ] _there are two images in the left side of the main page_
+- [ ] _there are two images in the right side of the main page_
 
 ### Main Info: HTML
 

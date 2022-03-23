@@ -8,14 +8,16 @@
 
 ## Communication Schedule
 
-| Day     | How  | The topic of discussion                                                       |
-| ------- | :--: | ----------------------------------------------------------------------------- |
-| Monday  | Zoom | Communication check, Constraints                                              |
-| Tuesday | Zoom | Communication last check, Constraints last check, User stories check, Backlog |
+| Day       |      How      | The topic of discussion                                                       |
+| --------- | :-----------: | ----------------------------------------------------------------------------- |
+| Monday    | Zoom, Discord | Communication check, Constraints                                              |
+| Tuesday   | Zoom, Discord | Communication last check, Constraints last check, User stories check, Backlog |
+| Wednesday |    Discord    | Final design, User Persona update, Development strategy                       |
+| Thursday  | Zoom, Discord | Catch up on progress, Development part, Project description                   |
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**:
 - **Pull Requests**: review for each PR

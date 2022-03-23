@@ -135,9 +135,7 @@ the content with clear description.
 
 ### Main Info: HTML
 
-- Main text: a section with helpful info and links .(issue)
-
-- Extra Info Links: a list of links (issue)
+- Main text: a section with helpful info and links.(issue)
 
 ### Main Info: CSS
 
@@ -145,7 +143,7 @@ the content with clear description.
 
 ## Images (milestone)
 
-> "As a user I want to see the images of Tree's Health/social impact"
+> "As a user I want to see the images of Tree's"
 
 There should be an image of Tree.
 
@@ -164,18 +162,14 @@ There should be an image of Tree.
 
 ## Footer (milestone)
 
-> "As a user I can learn if the page is reserved for a specific user and when it
-> has been created"
+> - As a user I can be sure that this page is reliable
 
-Some info about the creation of the website date and reserver right.
-
-- [ ] _there is info about the date which the website is created and reserved
-      right_
+- [ ] _there is a footer with a link to development organization_
+- [ ] _there is info about the date which the website is created and reserved right_
 
 ### Footer: HTML
 
-- A footer with a paragraph with the date of the page creation and the name of
-  the person who reserved it.(issue)
+- A footer with a  link to development organization and a paragraph with the date of the page creation.(issue)
 
 ### Footer: CSS
 

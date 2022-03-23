@@ -2,7 +2,7 @@
 
 **The project objective** : To explain the need of trees.
 
-## the public 
+## The public
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-- **Bio**: Leo is a Plantsman who currently preparing for a seminar.
+- **Bio**: Leo is a Plantsman, who currently preparing for a seminar.
 - **Needs/Goals**: He needs to explain about How to plant a tree, Tree Health
   and why trees are important part of healthy environment.
 - **Frustrations**: Many sources are explaning about tress but its challenging

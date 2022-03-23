@@ -1,16 +1,16 @@
 # All About Trees
 
-> only `must have` user stories need to be in the development strategy
+<!---only `must have` user stories need to be in the development strategy --->
 
-A simple little website about trees.
+This website explains about why to plant trees,their uses and its impact on
+society.
 
 ---
 
 ## Setup
 
-- [ ] Boilerplate HTML file
 - [ ] Page title in the HTML file
-- [ ] empty CSS file
+- [ ] CSS file for Title, Menu, Main info and footer
 - [ ] CSS file is linked to HTML
 
 ---
@@ -25,11 +25,11 @@ A simple little website about trees.
 
 <!-- issue title -->
 
-## Site Title
+## Site Title (milestone)
 
 <!-- user story -->
 
-> "as a user I can read the title of the page"
+> "As a user I can read the title of the page"
 
 <!-- detailed description -->
 
@@ -41,70 +41,142 @@ The site needs a clear title that's easy to read at the top of the page.
 
 <!-- code you think you will need -->
 
-### Site Title: HTML
+### Site Title HTML
 
-- Header with the web site's title
+- Header with the web site's title (issue)
 
-### Site Title: CSS
+### Site Title CSS
 
-- styling to center the title
+- styling to center the title(issue)
 
 ---
 
-## Introduction
+## Navbar (milestone)
 
-> "As a user I can read an introduction to this project"
+> As a plantsman I can easily understand what is this page about
 
-It should be clear what this project is for and what someone can expect from the
-web page.
+- [ ] there is a navbar on the top of the page.
 
-- [ ] _there is a section directly under the navbar describing the project's
-      goals_
+### Navbar HTML
+
+- [ ] links:Introduction,Content,Extras(issue)
+
+### Navbar CSS
+
+- [ ] style elements, hover (issue)
+- [ ] place elements using flex (issue)
+
+---
+
+## Introduction (milestone)
+
+> "As a user I can read an introduction to this project" It should be clear what
+> this project is for and what someone can expect from the web page.
+
+- [ ] _there is a section "Introduction" in the navbar describing the project's
+      goal_
 
 ### Introduction: HTML
 
-- a section with some general information about the project and helpful links
+- a section with some general information about the project and helpful
+  links(issue)
 
 ### Introduction: CSS
 
-- styling to make the text look fancy
+- styling to make the text look fancy.(issue)
 
 ---
 
-## Main Info
+## Content (milestone)
 
-> "As a user I can learn about trees"
+> "As a user I can learn about trees" As a middle shool student I can find some
+> visual content for my presentation
 
-There should be enough information that the user can learn the basics about
-trees.
+    about trees
 
-- [ ] _there is a main text in the page with helpful info and links_
+Since it is a home page we don't place much content but there should be links to
+the content with clear description.
 
-### Main Info: HTML
+- [ ] _A section with some general information about the uses of trees,tree
+      health and social impact_(issue)
+- [ ] _there is main text with links for visual content_
 
-- Main text: a section with some general information about the project
-- Extra Info Links: a list of links
+### Content: HTML
 
-### Main Info: CSS
+- a div with title and paragraph explaining Trees(issue)
 
-- style the text
-- styling to format the list
+### Content: CSS
 
----
+- [ ] hover effect on links (issue)
+- [ ] styling to make the content look nice(issue)
 
-## Extra Info
+<!--## Extra Info (milestone)
 
-> "As a user I can learn even more about trees"
-
-Some more links for students who want to go beyond the basics.
+> "As a user I can learn even more about trees" Some more links for students who
+> want to go beyond the basics.
 
 - [ ] _there is an aside with links for further reading_
 
 ### Extra Info: HTML
 
 - An aside with links for digging deeper, some helpful text and a reference link
+  (issue)
 
 ### Extra Info: CSS
 
-- styling to position the aside
-- styling to style the text
+- styling to position the aside (issue)
+- styling to style the text (issue)
+-->
+
+## Main Info (milestone)
+
+> "As a user I can learn about trees"
+
+- [ ] _there is a main text in the page with helpful info and links_
+- [ ] _there are two images in the right side of the main page_
+
+### Main Info: HTML
+
+- Main text: a section with helpful info and links.(issue)
+
+### Main Info: CSS
+
+- style the text (issue)
+
+## Images (milestone)
+
+> "As a user I want to see the image of Tree"
+
+There should be an image of Tree.
+
+- [ ] _there is an image explains about Tree health/Uses/social impact_
+
+### Images: HTML
+
+- A div with an img of Tree (issue)
+
+### Images: CSS
+
+- styling the div to have a good width(issue)
+- style the image to be centered(issue)
+
+---
+
+## Footer (milestone)
+
+> - As a user I can be sure that this page is reliable
+
+- [ ] _there is a footer with a link to development organization_
+- [ ] _there is info about the date which the website is created and reserved
+      right_
+
+### Footer: HTML
+
+- A footer with a link to development organization and a paragraph with the date
+  of the page creation.(issue)
+
+### Footer: CSS
+
+- styling the footer text to be centered.(issue)
+
+---

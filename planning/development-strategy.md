@@ -55,8 +55,8 @@ society.
 
 > As a user I can read the details of the website from the Menu.
 
-- [ ] _A Menu contians Home,Introduction,Content and Extras are displayed at the top
-  of the page._
+- [ ] _A Menu contians Home,Introduction,Content and Extras are displayed at the
+      top of the page._
 
 ### Menu HTML
 
@@ -96,7 +96,7 @@ Since it is a home page we don't place much content but there should be links to
 the content with clear description.
 
 - [ ] _A section with some general information about the uses of trees,tree
-  health and social impact_(issue)
+      health and social impact_(issue)
 - [ ] _there are links to different sources providing content about trees_
 
 ### Content: HTML
@@ -171,7 +171,7 @@ There should be an image of Tree.
 Some info about the creation of the website date and reserver right.
 
 - [ ] _there is info about the date which the website is created and reserved
-  right_
+      right_
 
 ### Footer: HTML
 

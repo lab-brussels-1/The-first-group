@@ -53,10 +53,9 @@ society.
 
 ## Menu (milestone)
 
-> As a user I can read the details of the website from the Menu.
+>As a plantsman I can easily understand what is this page about
 
-- [ ] _A Menu contians Home,Introduction,Content and Extras are displayed at the
-      top of the page._
+- [ ] _there is a menu in the navbar on the top of the page.
 
 ### Menu HTML
 

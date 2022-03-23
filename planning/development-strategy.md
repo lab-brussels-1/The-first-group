@@ -109,7 +109,7 @@ the content with clear description.
 - [ ] hover effect on links (issue)
 - [ ] styling to make the content look nice(issue)
 
-## Extra Info (milestone)
+<!--## Extra Info (milestone)
 
 > "As a user I can learn even more about trees" Some more links for students who
 > want to go beyond the basics.
@@ -125,18 +125,17 @@ the content with clear description.
 
 - styling to position the aside (issue)
 - styling to style the text (issue)
-
+-->
 ## Main Info (milestone)
 
-> "As a user I can learn about trees" There should be enough information that
-> the user can learn the basics about trees.
+> "As a user I can learn about trees" 
 
 - [ ] _there is a main text in the page with helpful info and links_
 - [ ] _there are two images in the left side of the main page_
 
 ### Main Info: HTML
 
-- Main text: a section with some general information about the project.(issue)
+- Main text: a section with helpful info and links .(issue)
 
 - Extra Info Links: a list of links (issue)
 

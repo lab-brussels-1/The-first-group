@@ -1,4 +1,4 @@
-# All About Trees :deciduous_tree: :cherry_blossom
+# All About Trees :deciduous_tree: :cherry_blossom:
 
 > The goal of **The Group First** team project is to rebuild the All About Trees
 > home page in a new repository.  
@@ -10,7 +10,31 @@
 
 ## Table of contents
 
-- [All About Trees](#)
+- [All About Trees :deciduous_tree: :cherry_blossom:](#all-about-trees-deciduous_tree-cherry_blossom)
+  - [Table of contents](#table-of-contents)
+  - [Team-members](#team-members)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Our style of working together](#our-style-of-working-together)
+  - [Contact](#contact)
+
+  - [Table of contents](#table-of-contents)
+  - [Team-members](#team-members)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Our style of working together](#our-style-of-working-together)
+  - [Contact](#contact)
+
   - [Table of contents](#table-of-contents)
   - [Team members](#team-members)
   - [General info](#general-info)

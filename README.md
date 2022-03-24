@@ -103,7 +103,6 @@ List of features ready and TODOs for future development
 To-do list:
 
 - Add some styling
--
 
 ## Status
 

@@ -67,7 +67,7 @@ The site needs a clear title that's easy to read at the top of the page.
 - [ ] place elements using flex (issue)
 
 ---
-
+<!--
 ## Introduction (milestone)
 
 > "As a user I can read an introduction to this project" It should be clear what
@@ -110,7 +110,7 @@ the content with clear description.
 - [ ] hover effect on links (issue)
 - [ ] styling to make the content look nice(issue)
 
-<!--## Extra Info (milestone)
+## Extra Info (milestone)
 
 > "As a user I can learn even more about trees" Some more links for students who
 > want to go beyond the basics.

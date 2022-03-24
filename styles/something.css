@@ -18,6 +18,7 @@ body {
 .bouncy-img:hover {
   animation: bounce 1s;
 }
+
 .spaced-items {
   display: flex;
   flex-direction: row;
@@ -30,6 +31,7 @@ body {
 .top-divider {
   border-style: solid none none none;
 }
+
 .footer-bottom {
   font-size: 1.1em;
   font-weight: bold;

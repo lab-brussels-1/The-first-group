@@ -6,11 +6,21 @@
 > `planning and collaboration` throughout the project we have also decided to
 > enhance the given web page in order to make it pretty.
 
-**The Group First** team members:
-
 ## Table of contents
 
 - [All About Trees :deciduous_tree: :cherry_blossom:](#all-about-trees-deciduous_tree-cherry_blossom)
+  - [Table of contents](#table-of-contents)
+  - [Team-members](#team-members)
+  - [General info](#general-info)
+  - [Screenshots](#screenshots)
+  - [Technologies](#technologies)
+  - [Setup](#setup)
+  - [Code Examples](#code-examples)
+  - [Features](#features)
+  - [Status](#status)
+  - [Our style of working together](#our-style-of-working-together)
+  - [Contact](#contact)
+
   - [Table of contents](#table-of-contents)
   - [Team-members](#team-members)
   - [General info](#general-info)

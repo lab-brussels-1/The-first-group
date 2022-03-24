@@ -67,6 +67,7 @@ The site needs a clear title that's easy to read at the top of the page.
 - [ ] place elements using flex (issue)
 
 ---
+
 <!--
 ## Introduction (milestone)
 

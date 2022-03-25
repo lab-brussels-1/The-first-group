@@ -40,10 +40,6 @@ body {
   text-align: center;
 }
 
-#myDIV {
-  height: 300px;
-}
-
 .bluediv {
   width: 600px;
   padding-left: 20px;
@@ -65,4 +61,12 @@ h3 {
 ul {
   font-size: 20px;
   color: rgb(0, 0, 0);
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 390px;
+  right: 100px;
 }

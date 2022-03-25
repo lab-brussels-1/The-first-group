@@ -35,7 +35,7 @@ strategy and project management.
 
 ## Screenshots
 
-![Example screenshot](public/2021-01-22-cell-trees-nl.webp)
+![Example screenshot](public/screenshot.JPG)
 
 ## Technologies
 

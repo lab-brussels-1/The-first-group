@@ -1,7 +1,9 @@
+
 /* CSS files add styling rules */
+
 body {
   font-family: arial, sans-serif;
-  background: #ffffff;
+  background: #fff;
   height: 100vh; /*height of this element is equal to 100% of the viewport height*/
   text-align: justify;
 }

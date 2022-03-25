@@ -42,9 +42,19 @@ in time because of good team work!
 ### What parts of your plan went as expected?
 
 - Title development
+- Navgation Links
+- Main info
+- Images
+- Footer
 
-- ### What parts of your plan did not work out?
+### What parts of your plan did not work out?
+
+-To make it more pretty. planned to use more styles in css.
 
 ### Did you need to add things that weren't in your strategy?
 
+No
+
 ### Or remove extra steps?
+
+No

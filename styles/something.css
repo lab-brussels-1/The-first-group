@@ -103,13 +103,6 @@ ul {
   color: rgb(0, 0, 0);
 }
 
-img {
-  width: 400px;
-  height: 300px;
-  position: absolute;
-  top: 390px;
-  right: 100px;
-}
 /* styling the images */
 
 .row-images img {

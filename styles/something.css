@@ -1,10 +1,10 @@
 /* CSS files add styling rules */
 body {
   font-family: arial, sans-serif;
-   background: #ffffff;
-   height:100vh ;/*height of this element is equal to 100% of the viewport height*/
-   text-align: justify;
-  }
+  background: #ffffff;
+  height: 100vh; /*height of this element is equal to 100% of the viewport height*/
+  text-align: justify;
+}
 
 .centered-items {
   display: flex;
@@ -22,7 +22,6 @@ body {
 .bouncy-img:hover {
   animation: bounce 1s;
 }
-
 
 /* style for top Navbar */
 
@@ -109,8 +108,8 @@ ul {
 
 .row-images img {
   display: inline-flex;
-  float:right;
-  margin-left:20px;
+  float: right;
+  margin-left: 20px;
   padding-top: 50px;
   width: 40%;
 }

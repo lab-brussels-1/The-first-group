@@ -106,7 +106,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_
+Project is: done
 
 ## Our style of working together
 

@@ -25,7 +25,7 @@ society.
 
 <!-- issue title -->
 
-## Site Title 
+## Site Title
 
 <!-- user story -->
 
@@ -51,7 +51,7 @@ The site needs a clear title that's easy to read at the top of the page.
 
 ---
 
-## Navbar 
+## Navbar
 
 > As a plantsman I can easily understand what is this page about
 
@@ -129,7 +129,7 @@ the content with clear description.
 - styling to style the text (issue)
 -->
 
-## Main Info 
+## Main Info
 
 > "As a user I can learn about trees"
 
@@ -144,7 +144,7 @@ the content with clear description.
 
 - style the text (issue)
 
-## Images 
+## Images
 
 > "As a user I want to see the image of Tree"
 
@@ -163,7 +163,7 @@ There should be an image of Tree.
 
 ---
 
-## Footer 
+## Footer
 
 > - As a user I can be sure that this page is reliable
 

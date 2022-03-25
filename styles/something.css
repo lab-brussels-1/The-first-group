@@ -70,3 +70,19 @@ img {
   top: 390px;
   right: 30px;
 }
+
+img {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 390px;
+  right: 30px;
+}
+
+.row-images img {
+  display: inline-flex;
+  float: right;
+  margin-left: 20px;
+  padding-top: 50px;
+  width: 40%;
+}

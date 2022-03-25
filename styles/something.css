@@ -5,6 +5,7 @@ body {
   background: #fff;
   height: 100vh; /* height of this element is equal to 100% of the viewport height */
   text-align: justify;
+  margin: 25px;
 }
 
 .centered-items {
@@ -69,7 +70,7 @@ body {
 }
 
 .introduction {
-  width: 500px;
+  width: 65%;
   font-size: 20px;
   color: rgb(0, 0, 0);
   padding-left: 20px;
@@ -83,8 +84,8 @@ body {
 }
 
 .bluediv {
-  width: 600px;
-  padding-left: 20px;
+  width: 65%;
+  padding: 20px;
 }
 
 p {
@@ -107,10 +108,15 @@ ul {
 
 /* styling the images */
 
-.row-images img {
-  display: inline-flex;
+.row-images {
   float: right;
-  margin-left: 20px;
-  padding-top: 50px;
-  width: 40%;
+  display: block;
+  width: 25%;
+  height: 23%;
+  margin-right: 60px;
+}
+
+.row-images img {
+  width: 100%;
+  padding-top: 10px;
 }

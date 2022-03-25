@@ -107,10 +107,26 @@ ul {
 
 /* styling the images */
 
-.row-images img {
-  display: inline-flex;
-  float: right;
-  margin-left: 20px;
-  padding-top: 50px;
-  width: 40%;
+.row-images1 img {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 350px;
+  right: 50px;
+}
+
+.row-images2 img {
+  width: 310px;
+  height: 270px;
+  position: absolute;
+  top: 710px;
+  right: 50px;
+}
+
+.row-images3 img {
+  width: 300px;
+  height: 250px;
+  position: absolute;
+  top: 1000px;
+  right: 50px;
 }

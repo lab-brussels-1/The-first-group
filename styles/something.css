@@ -112,15 +112,15 @@ ul {
   height: 300px;
   position: absolute;
   top: 350px;
-  right: 30px;
+  right: 50px;
 }
 
 .row-images2 img {
-  width: 270px;
+  width: 310px;
   height: 270px;
   position: absolute;
   top: 710px;
-  right: 30px;
+  right: 50px;
 }
 
 .row-images3 img {
@@ -128,5 +128,5 @@ ul {
   height: 250px;
   position: absolute;
   top: 1000px;
-  right: 30px;
+  right: 50px;
 }

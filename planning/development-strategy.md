@@ -9,14 +9,14 @@ society.
 
 ## Setup
 
-- [ ] Page title in the HTML file
+- [X] Page title in the HTML file
 - [ ] CSS file for Title, Menu, Main info and footer
 - [ ] CSS file is linked to HTML
 
 ---
 
 <!--
-  all issues for this user story have a `for: site title` label
+ all issues for this user story have a `for: site title` label
 
   this section can be copy-pasted into an issue on the project board
 
